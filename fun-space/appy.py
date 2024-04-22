@@ -5,4 +5,6 @@ def Luas_segitiga():
     luas = a * t / 2
     print("Luas segitiga adalah: ", luas)
 
+
+
 Luas_segitiga()
